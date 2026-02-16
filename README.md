@@ -38,9 +38,9 @@
 const vinod = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Liquid Glass UI 🌊",
+    currentFocus: "Quantum Computing ⚛️",
     learning: ["Advanced Animations", "3D Web"],
-    interests: ["Web Design", "Open Source", "Tech"],
+    interests: ["Problem Solving", "Web Design", "Open Source"],
     motto: "Flow like water, clear like glass.",
     
     lifeLoop: function() {
@@ -130,6 +130,12 @@ const vinod = {
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod7777&layout=compact&bg_color=0D1117&title_color=00BFFF&text_color=E0FFFF&hide_border=true" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinod7777&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=E0FFFF&area=true&area_color=00BFFF" />
+</div>
+
+<!-- LeetCode Stats -->
+<h2 align="center">🧠 LeetCode Status</h2>
+<div align="center">
+  <img src="https://leetcard.c1.biz/StatsClass?username=vinod7777&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <!-- Animated Divider -->
