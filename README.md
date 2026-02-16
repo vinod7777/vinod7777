@@ -99,8 +99,8 @@ const profile = {
   
   <br><br>
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinod7777&show_icons=true&bg_color=0D1117&title_color=ff00cc&icon_color=00f2ea&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=vinod7777&theme=radical&hide_border=true&background=0D1117&stroke=ff00cc&ring=bc13fe&fire=ff00cc&currStreakLabel=00f2ea" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinod7777&show_icons=true&bg_color=0D1117&title_color=ff00cc&icon_color=00f2ea&text_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=vinod7777&theme=radical&hide_border=true&background=0D1117&stroke=ff00cc&ring=bc13fe&fire=ff00cc&currStreakLabel=00f2ea" />
 </div>
 
 <div align="center">
@@ -116,11 +116,11 @@ const profile = {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinod7777/vinod7777/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinod7777/vinod7777/output/github-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinod7777/vinod7777/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/vinod7777/vinod7777/output/github-snake.svg" />
   </picture>
-</div>
+</div>  
 
 <!-- Footer -->
 <div align="center">
