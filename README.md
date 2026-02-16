@@ -31,7 +31,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/L1R1TVOXXGH0t/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> **System.Identity**
@@ -110,7 +110,7 @@ const profile = {
 <!-- LeetCode Stats -->
 <h2 align="center">🧠 Algorithm Proficiency</h2>
 <div align="center">
-  <img src="https://leetcard.c1.biz/StatsClass?username=sanapala_vinod_kumar&theme=radical&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sanapala_vinod_kumar?theme=radical&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <!-- Snake Animation -->
