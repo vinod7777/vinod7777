@@ -135,7 +135,7 @@ const vinod = {
 <!-- LeetCode Stats -->
 <h2 align="center">🧠 LeetCode Status</h2>
 <div align="center">
-  <img src="https://leetcard.c1.biz/StatsClass?username=vinod7777&theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=sanapala_vinod_kumar&theme=dark" alt="LeetCode Stats" />
 </div>
 
 <!-- Animated Divider -->
